@@ -8,3 +8,17 @@ Tujuan Eksperimen :
 Soal Eksperimen :
 
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/848454c1-e8b9-4744-8060-263bb9b246df" />
+
+Instruksi Tambahan Eksperimen :
+
+Nomor 1
+
+Gain Margin (dB) = 64.2
+
+Frekuensi Gain Margin (rad/s) = 41.2
+
+Nomor 2
+
+Gain Margin (dB) = -26
+
+Frekuensi Gain Margin (rad/s) = 22.9
