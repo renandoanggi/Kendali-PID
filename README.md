@@ -11,13 +11,13 @@ Soal Eksperimen :
 
 Instruksi Tambahan Eksperimen :
 
-Nomor 1
+1.
 
 Gain Margin (dB) = 64.2
 
 Frekuensi Gain Margin (rad/s) = 41.2
 
-Nomor 2
+2.
 
 Gain Margin (dB) = -26
 
